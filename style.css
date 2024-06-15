@@ -5,12 +5,16 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    transition: 0.3s all;
+}
+
 span {
     display: block;
 }
 
 .main-section {
-    margin: 4rem auto 4rem;
+    margin: 6rem auto 6rem;
     text-align: center;
     width: 80%;
 }
