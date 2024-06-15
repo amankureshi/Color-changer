@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    display: block;
+}
+
+.main-section {
+    margin: 100px auto 100px;
+    text-align: center;
+    width: 80%;
+}
+
+.main-section h1 {
+    text-transform: capitalize;
+    margin-bottom: 2rem;
+}
+
+.small-content {
+    margin-top: 2rem;
+    line-height: 2.3rem;
+
+}
+
+.button {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #101010;
+    display: inline-block;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+#orange {
+    background: orange;
+}
+
+#purple {
+    background: purple;
+}
+
+#silver {
+    background: silver;
+}
+
+#brown {
+    background: brown;
+}
